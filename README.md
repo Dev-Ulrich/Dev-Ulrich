@@ -8,38 +8,15 @@
 ## 🚀 Tecnologias e Skills
 
 <table>
-  <tr>
-    <td><b>HTML</b></td>
-    <td>💪💪💪💪💪</td>
-  </tr>
-  <tr>
-    <td><b>CSS</b></td>
-    <td>💪💪💪💪🟠</td>
-  </tr>
-  <tr>
-    <td><b>JavaScript</b></td>
-    <td>💪💪💪💪🟠</td>
-  </tr>
-  <tr>
-    <td><b>React</b></td>
-    <td>💪💪💪🟠🟠</td>
-  </tr>
-  <tr>
-    <td><b>Java</b></td>
-    <td>💪💪💪🟠🟠</td>
-  </tr>
-  <tr>
-    <td><b>Spring Boot</b></td>
-    <td>💪💪💪🟠🟠</td>
-  </tr>
-  <tr>
-    <td><b>SQL Server</b></td>
-    <td>💪💪🟠🟠🟠</td>
-  </tr>
-  <tr>
-    <td><b>Git / GitHub</b></td>
-    <td>💪💪💪🟠🟠</td>
-  </tr>
+  <img align="center" alt="Victor-Js" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> <h1 align="center">💪💪💪💪💪</h1>
+  <img align="center" alt="Victor-Ts" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/> <h1 align="center">💪💪💪💪💪</h1>
+  <img align="center" alt="Victor-React" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/> <h1 align="center">💪💪💪💪💪</h1>
+  <img align="center" alt="Victor-HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> <h1 align="center">💪💪💪💪💪</h1>
+  <img align="center" alt="Victor-CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> <h1 align="center">💪💪💪💪💪</h1>
+  <img align="center" alt="Victor-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <h1 align="center">💪💪💪💪💪</h1>
+  <img align="center" alt="Victor-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /><h1 align="center">💪💪💪💪💪</h1>
+  <img align="center" alt="Victor-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" /><h1 align="center">💪💪💪💪💪</h1>
+  <img align="center" alt="Victor-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img align="center" alt="Victor-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /><h1 align="center">💪💪💪💪💪</h1>
 </table>
 
 ---
