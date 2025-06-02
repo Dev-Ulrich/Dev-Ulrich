@@ -34,7 +34,7 @@ interesse genuíno em resolver problemas com programação.'
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a> 
-    <a href="...">
+    <a href="https://github.com/Dev-Ulrich/Jornada-Ativa-Web">
         <img 
             alt="Portifolio Victor" 
             title="Meu maior trabalho" 
@@ -154,7 +154,7 @@ interesse genuíno em resolver problemas com programação.'
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 
 </p>
