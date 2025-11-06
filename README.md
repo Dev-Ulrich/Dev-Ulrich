@@ -45,6 +45,7 @@
 | 🏃 **[Jornada Ativa (Web, Mobile e Backend)](https://github.com/Dev-Ulrich/Jornada-Ativa-Web)** | Plataforma fitness com login, histórico e métricas para atletas amadores | React, TypeScript, Spring Boot, SQL Server |
 | 💸 **[Finance Family Control](https://github.com/Dev-Ulrich/Finance-Family-Controll)** | App para controle financeiro pessoal com categorias e relatórios | Java, Swing, SQL |
 | 🎨 **[Extensões e Temas](https://github.com/Dev-Ulrich/Extensoes-e-Temas)** | Customizações visuais e extensões criadas por diversão | HTML, CSS, JS |
+| ⚙️ **[Jornada Ativa Backend](https://github.com/Dev-Ulrich/Jornada-Ativa-Backend)** | API do projeto Jornada Ativa, responsável pela lógica de autenticação, usuários e treinos. Está em deploy no Render. | Java, Spring Boot, SQL Server |
 
 ---
 
