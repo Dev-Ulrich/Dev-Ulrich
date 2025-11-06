@@ -1,6 +1,10 @@
-# 👨🏻‍💻 Victor Ulrich
+<!-- Banner com efeito de digitação -->
+<h1 align="center">👨🏻‍💻 Victor Ulrich</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot+%7C+React;Estudante+FIAP+%7C+Tech+Lover;Evoluir+e+Adaptar" alt="Typing SVG" />
+</h3>
 
-**`Desenvolvedor Full Stack`**
+---
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **FIAP**, com formação técnica em **Informática** pelo **ITB – Brasílio Flores de Azevedo**  
 💻 Desenvolvedor com foco em **Java (Spring Boot)**, **React**, **SQL Server** e **mobile (React Native)**  
@@ -12,46 +16,24 @@
 
 ### 🌎 Onde me encontrar
 
-<p align="left">
+<p align="center">
     <a href="https://www.instagram.com/vp.ulrich/" target="_blank">
-        <img 
-            alt="Instagram Victor" 
-            title="Instagram" 
-            src="https://img.shields.io/badge/@vp.ulrich-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
+        <img alt="Instagram" src="https://img.shields.io/badge/@vp.ulrich-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
     <a href="mailto:victorulrich07@gmail.com">
-        <img 
-            alt="Email Victor" 
-            title="Email" 
-            src="https://img.shields.io/badge/victorulrich07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
+        <img alt="Email" src="https://img.shields.io/badge/victorulrich07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/victor-silva-199077369/" target="_blank">
-        <img 
-            alt="LinkedIn Victor" 
-            title="LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a> 
+    <a href="https://www.linkedin.com/in/victorulrichcosta" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
 </p>
 
 ---
 
 ### 🧠 Tecnologias e Ferramentas
 
-<p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" title="HTML"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" title="CSS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" title="SQL Server"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,nextjs,bootstrap,git,github,python,mysql,vscode" />
 </p>
 
 ---
@@ -68,17 +50,13 @@
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Dev-Ulrich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Ulrich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev-Ulrich&theme=tokyonight&hide_border=false&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -92,7 +70,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com um carinho especial pela **l
 Gosto de transformar ideias em produtos reais e não tenho medo de enfrentar desafios em busca de resultados.  
 Nos meus tempos livres, dedico-me a aprimorar meu conhecimento e explorar novas tecnologias.  
 
-
 ---
 
-⭐ *Obrigado por visitar meu perfil! Se quiser trocar uma ideia, me chame no [LinkedIn](https://www.linkedin.com/in/victor-silva-199077369/).*  
+
+⭐ *Obrigado por visitar meu perfil! Se quiser trocar uma ideia, me chame no [LinkedIn](https://www.linkedin.com/in/victorulrichcosta).*  
