@@ -1,160 +1,98 @@
+# 👨🏻‍💻 Victor Ulrich
 
-# 👩🏻‍💻 Victor Ulrich
+**`Desenvolvedor Full Stack`**
 
-**`Desenvolvedor FullStack`**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **FIAP**, com formação técnica em **Informática** pelo **ITB – Brasílio Flores de Azevedo**  
+💻 Desenvolvedor com foco em **Java (Spring Boot)**, **React**, **SQL Server** e **mobile (React Native)**  
+🏃 Criador do app **[Jornada Ativa](https://github.com/Dev-Ulrich/Jornada-Ativa-Web)** — um ecossistema fitness para atletas amadores  
+🚀 Busco oportunidade de **estágio ou jovem aprendiz** para aplicar minhas habilidades e evoluir na área de tecnologia.  
+🧠 Tenho facilidade de aprendizado e paixão por resolver problemas com código.
 
-Estudante do Ensino Médio e Técnico em Informática (ITB –
-Brasílio Flores de Azevedo), com conhecimentos em HTML, CSS,
-JavaScript (React), Java (Spring Boot), SQL Server e Git.
-Desenvolvendo um app como TCC para atletas amadores, com
-integração a um site empresarial. Busco uma oportunidade de
-estágio ou jovem aprendiz para aplicar minhas habilidades
-práticas em tecnologia. Possuo facilidade de aprendizado e
-interesse genuíno em resolver problemas com programação.'
+---
+
+### 🌎 Onde me encontrar
 
 <p align="left">
-    <a href="https://www.instagram.com/vp.ulrich/">
+    <a href="https://www.instagram.com/vp.ulrich/" target="_blank">
         <img 
             alt="Instagram Victor" 
-            title="Contato via Instagram" 
-            src="https://img.shields.io/badge/@vp.ulrcih-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            title="Instagram" 
+            src="https://img.shields.io/badge/@vp.ulrich-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
     <a href="mailto:victorulrich07@gmail.com">
         <img 
             alt="Email Victor" 
-            title="Contato via Email" 
+            title="Email" 
             src="https://img.shields.io/badge/victorulrich07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/victor-silva-199077369/">
+    <a href="https://www.linkedin.com/in/victor-silva-199077369/" target="_blank">
         <img 
-            alt="Linkedin Victor" 
-            title="Contato via Linkedin" 
+            alt="LinkedIn Victor" 
+            title="LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/Dev-Ulrich/Jornada-Ativa-Web">
-        <img 
-            alt="Portifolio Victor" 
-            title="Meu maior trabalho" 
-            src="https://img.shields.io/badge/Portifolio-000000?style=for-the-badge&logo=JornadaAtiva&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧠 Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SpringBoot" 
-    title="SpringBoot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL Server" 
-    title="SQL Server"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" title="HTML"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" title="CSS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" title="Next.js"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring Boot" title="Spring Boot"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40" alt="SQL Server" title="SQL Server"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+</p>
 
-<br/>
-<br/>
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| 🏃 **[Jornada Ativa (Web, Mobile e Backend)](https://github.com/Dev-Ulrich/Jornada-Ativa-Web)** | Plataforma fitness com login, histórico e métricas para atletas amadores | React, TypeScript, Spring Boot, SQL Server |
+| 💸 **[Finance Family Control](https://github.com/Dev-Ulrich/Finance-Family-Controll)** | App para controle financeiro pessoal com categorias e relatórios | Java, Swing, SQL |
+| 🎨 **[Extensões e Temas](https://github.com/Dev-Ulrich/Extensoes-e-Temas)** | Customizações visuais e extensões criadas por diversão | HTML, CSS, JS |
+
+---
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=Dev-Ulrich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+  <img 
+    alt="Top Langs" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
-
 </p>
+
+---
+
+### 💬 Sobre mim
+
+> *“Fortis Fortuna Adiuvat.”*  
+> *(A sorte favorece os corajosos.)*
+
+Sou um desenvolvedor apaixonado por tecnologia, com um carinho especial pela **lógica, backend e criação de sistemas**.  
+Gosto de transformar ideias em produtos reais e não tenho medo de enfrentar desafios em busca de resultados.  
+Nos meus tempos livres, dedico-me a aprimorar meu conhecimento e explorar novas tecnologias.  
+
+
+---
+
+⭐ *Obrigado por visitar meu perfil! Se quiser trocar uma ideia, me chame no [LinkedIn](https://www.linkedin.com/in/victor-silva-199077369/).*  
