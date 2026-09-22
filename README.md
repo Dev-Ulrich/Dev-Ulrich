@@ -1,115 +1,129 @@
-<h1 align="center">👨🏻‍💻 Victor Ulrich Costa</h1>
+<h2 align="left">Hi 👋! My name is Victor Ulrich and I'm a Full Stack Developer, QA and ADS student from São Paulo, Brazil.</h2>
 
-<h3 align="center">Full Stack Developer • QA • DevSecOps</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/victorulrichcosta">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:victorulrich07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="left">
+  💼 Technology Intern at <strong>Accenture</strong>, working with QA and development.<br>
+  🎓 Studying <strong>Analysis and Systems Development at FIAP</strong>.<br>
+  🚀 Focused on <strong>React, TypeScript, Java, Spring Boot, SQL and software quality</strong>.<br>
+  🧪 Experience with QA, software testing, Azure DevOps and DevSecOps practices.<br>
+  🌐 Interested in Full Stack development, APIs, web applications and software projects.
 </p>
 
----
+###
 
-## 👋 Sobre mim
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Ulrich&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e atualmente atuo como **Estagiário em Tecnologia na Accenture**, com atividades em **QA e desenvolvimento**.
+###
 
-Tenho foco em **desenvolvimento Full Stack**, com experiência prática em projetos utilizando **React, TypeScript, Java, Spring Boot e SQL**. Também possuo vivência com **testes de software, Azure DevOps, Git/GitHub e práticas de DevSecOps**.
+<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
-Gosto de transformar requisitos em soluções funcionais, organizar código de forma clara e evoluir projetos com foco em qualidade, colaboração e boas práticas de desenvolvimento.
+### 🧠 Main technologies
 
-Atualmente, venho aprofundando meus conhecimentos em desenvolvimento web, APIs REST, banco de dados, automação de testes e arquitetura de aplicações.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+</div>
 
----
+### 🗄️ Backend, database & tools
 
-## 🛠️ Tecnologias e ferramentas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="sql server logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+</div>
 
-### Desenvolvimento
+<br clear="both">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,java,spring,python,html,css" alt="Tecnologias de desenvolvimento" />
+### 🔧 Other skills
+
+<p align="left">
+  REST APIs • Spring Security • JWT • React Router • React Hook Form • Tailwind CSS • Vite • SQL Server • Oracle Database • Azure DevOps • GitHub • Playwright • Robot Framework • QA • Software Testing • DevSecOps • Scrum
 </p>
 
-### Banco de dados, DevOps e ferramentas
+###
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,mysql,vscode" alt="Ferramentas" />
-</p>
-
-**Outras competências:** SQL Server • Oracle Database • Azure DevOps • REST API • JWT • Spring Security • Playwright • Robot Framework • QA • DevSecOps • Scrum
-
----
-
-## 🚀 Projetos em destaque
+## 🚀 Featured projects
 
 ### 🌱 EcoVolt
+Gamified sustainability platform developed in an academic context at FIAP. The project includes dashboards, sustainable actions, evidence validation, missions, rankings, rewards and responsive interfaces.
 
-Plataforma gamificada de sustentabilidade desenvolvida em contexto acadêmico na FIAP, com foco em ações sustentáveis, validação de evidências, missões, ranking, recompensas e acompanhamento da evolução dos usuários.
+**Main stack:** React • TypeScript • Vite • Tailwind CSS • React Router • Git/GitHub
 
-**Stack principal:** React • TypeScript • Vite • Tailwind CSS • React Router • Git/GitHub
-
-🔗 [Repositório Front-End em React](https://github.com/Dev-Ulrich/EcoVoltRepositoryFE)
-
----
+🔗 [React Front-End Repository](https://github.com/Dev-Ulrich/EcoVoltRepositoryFE)
 
 ### 🏃 Jornada Ativa
+Full Stack project developed as a technical course capstone, focused on health, physical activity and workout tracking. The ecosystem integrates Web, Backend, database and mobile modules.
 
-Projeto Full Stack desenvolvido como TCC do curso técnico, voltado à saúde, atividade física e acompanhamento de treinos. O ecossistema contempla integração entre Web, Backend, banco de dados e aplicação mobile.
+**Main stack:** Java 21 • Spring Boot • Spring Security • JWT • SQL Server • React • Git/GitHub
 
-**Stack principal:** Java 21 • Spring Boot • Spring Security • JWT • SQL Server • React • Git/GitHub
-
-🔗 [Repositório principal](https://github.com/Dev-Ulrich/Jornada-Ativa)  
+🔗 [Main Repository](https://github.com/Dev-Ulrich/Jornada-Ativa)  
 🔗 [Backend API](https://github.com/Dev-Ulrich/Jornada-Ativa-Backend)
 
----
-
 ### ☀️ Prepila Dyson
+Web platform developed for FIAP Global Solution 2026 focused on monitoring and managing Space-Based Solar Power (SBSP) systems.
 
-Plataforma desenvolvida para a FIAP Global Solution 2026 com foco em monitoramento e gestão de sistemas de **Space-Based Solar Power (SBSP)**.
+**Main stack:** HTML5 • CSS3 • JavaScript • IBM Watson Assistant • Git/GitHub
 
-A aplicação apresenta dashboard, monitoramento operacional, alertas, relatórios, gestão de contratos, administração de usuários e integração com chatbot.
+🔗 [Front-End Repository](https://github.com/Dev-Ulrich/PrepilaDysonFrontEndRepository)
 
-**Stack principal:** HTML5 • CSS3 • JavaScript • IBM Watson Assistant • Git/GitHub
+###
 
-🔗 [Repositório Front-End](https://github.com/Dev-Ulrich/PrepilaDysonFrontEndRepository)
+## 💼 What I work with
 
----
-
-## 💼 Experiência e áreas de atuação
-
-- Desenvolvimento Full Stack
-- Desenvolvimento Front-end e Back-end
-- APIs REST
-- Banco de dados relacional
+- Full Stack Development
+- Front-end and Back-end Development
+- REST APIs
+- Relational Databases
 - Quality Assurance (QA)
-- Testes de software e automação
-- Git e GitHub
+- Software Testing and Automation
+- Git and GitHub workflows
 - Azure DevOps
-- DevSecOps
-- Metodologias Ágeis / Scrum
+- DevSecOps practices
+- Agile / Scrum
 
----
+###
 
-## 📊 Estatísticas
+## 🌎 Connect with me
+
+<div align="left">
+  <a href="mailto:victorulrich07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/victorulrichcosta" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/Dev-Ulrich" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+</div>
+
+###
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Ulrich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&theme=tokyonight&layout=compact&custom_title=Tecnologias" alt="Linguagens mais utilizadas" />
-</p>
-
----
-
-## 📫 Contato
-
-- **LinkedIn:** [linkedin.com/in/victorulrichcosta](https://www.linkedin.com/in/victorulrichcosta)
-- **GitHub:** [github.com/Dev-Ulrich](https://github.com/Dev-Ulrich)
-- **E-mail:** victorulrich07@gmail.com
-
----
-
-<p align="center">
-  <i>Construindo, testando e evoluindo soluções de software continuamente.</i>
+  <i>Building, testing and continuously improving software solutions.</i>
 </p>
