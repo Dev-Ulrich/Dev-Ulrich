@@ -109,13 +109,17 @@ Plataforma web para monitoramento e gestão de sistemas de energia solar espacia
 ## GitHub em números
 
 <div align="center">
+  <img src="./profile/stats.svg" height="165" alt="Estatísticas do GitHub de Victor Ulrich" />
+  <img src="./profile/languages.svg" height="165" alt="Linguagens mais utilizadas por Victor Ulrich" />
+
+  <br><br>
+
   <a href="https://github.com/Dev-Ulrich?tab=followers">
     <img src="https://img.shields.io/github/followers/Dev-Ulrich?style=for-the-badge&logo=github&label=Seguidores&color=8b5cf6" alt="Seguidores de Victor Ulrich no GitHub" />
   </a>
   <a href="https://github.com/Dev-Ulrich?tab=repositories">
     <img src="https://img.shields.io/badge/Portfólio-Ver_repositórios-8b5cf6?style=for-the-badge&logo=github" alt="Ver repositórios de Victor Ulrich" />
   </a>
-  <img src="https://img.shields.io/badge/Projetos_em_destaque-3-8b5cf6?style=for-the-badge" alt="Três projetos em destaque" />
 </div>
 
 <p align="center">
