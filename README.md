@@ -1,25 +1,25 @@
-<h2 align="left">Hi 👋! My name is Victor Ulrich and I'm a Full Stack Developer, QA and ADS student from São Paulo, Brazil.</h2>
+<h2 align="left">Olá 👋! Meu nome é Victor Ulrich e sou Desenvolvedor Full Stack, atuo com QA e curso ADS em São Paulo, Brasil.</h2>
 
 <p align="left">
-  💼 Technology Intern at <strong>Accenture</strong>, working with QA and development.<br>
-  🎓 Studying <strong>Analysis and Systems Development at FIAP</strong>.<br>
-  🚀 Focused on <strong>React, TypeScript, Java, Spring Boot, SQL and software quality</strong>.<br>
-  🧪 Experience with QA, software testing, Azure DevOps and DevSecOps practices.<br>
-  🌐 Interested in Full Stack development, APIs, web applications and software projects.
+  💼 Estagiário em Tecnologia na <strong>Accenture</strong>, atuando com QA e desenvolvimento.<br>
+  🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas na FIAP</strong>.<br>
+  🚀 Foco em <strong>React, TypeScript, Java, Spring Boot, SQL e qualidade de software</strong>.<br>
+  🧪 Experiência com QA, testes de software, Azure DevOps e práticas de DevSecOps.<br>
+  🌐 Interesse em desenvolvimento Full Stack, APIs, aplicações web e projetos de software.
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Ulrich&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Ulrich&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="gráfico de estatísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="gráfico de linguagens" />
 </div>
 
 ###
 
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" alt="gif de programação" />
 
-### 🧠 Main technologies
+### 🧠 Principais tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
 </div>
 
-### 🗄️ Backend, database & tools
+### 🗄️ Backend, banco de dados e ferramentas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="sql server logo" />
@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-### 🔧 Other skills
+### 🔧 Outras competências
 
 <p align="left">
   REST APIs • Spring Security • JWT • React Router • React Hook Form • Tailwind CSS • Vite • SQL Server • Oracle Database • Azure DevOps • GitHub • Playwright • Robot Framework • QA • Software Testing • DevSecOps • Scrum
@@ -67,48 +67,48 @@
 
 ###
 
-## 🚀 Featured projects
+## 🚀 Projetos em destaque
 
 ### 🌱 EcoVolt
-Gamified sustainability platform developed in an academic context at FIAP. The project includes dashboards, sustainable actions, evidence validation, missions, rankings, rewards and responsive interfaces.
+Plataforma gamificada de sustentabilidade desenvolvida em contexto acadêmico na FIAP. O projeto contempla dashboards, ações sustentáveis, validação de evidências, missões, ranking, recompensas e interfaces responsivas.
 
-**Main stack:** React • TypeScript • Vite • Tailwind CSS • React Router • Git/GitHub
+**Stack principal:** React • TypeScript • Vite • Tailwind CSS • React Router • Git/GitHub
 
-🔗 [React Front-End Repository](https://github.com/Dev-Ulrich/EcoVoltRepositoryFE)
+🔗 [Repositório Front-End em React](https://github.com/Dev-Ulrich/EcoVoltRepositoryFE)
 
 ### 🏃 Jornada Ativa
-Full Stack project developed as a technical course capstone, focused on health, physical activity and workout tracking. The ecosystem integrates Web, Backend, database and mobile modules.
+Projeto Full Stack desenvolvido como TCC do curso técnico, voltado à saúde, atividade física e acompanhamento de treinos. O ecossistema integra módulos Web, Backend, banco de dados e aplicação mobile.
 
-**Main stack:** Java 21 • Spring Boot • Spring Security • JWT • SQL Server • React • Git/GitHub
+**Stack principal:** Java 21 • Spring Boot • Spring Security • JWT • SQL Server • React • Git/GitHub
 
-🔗 [Main Repository](https://github.com/Dev-Ulrich/Jornada-Ativa)  
+🔗 [Repositório principal](https://github.com/Dev-Ulrich/Jornada-Ativa)  
 🔗 [Backend API](https://github.com/Dev-Ulrich/Jornada-Ativa-Backend)
 
 ### ☀️ Prepila Dyson
-Web platform developed for FIAP Global Solution 2026 focused on monitoring and managing Space-Based Solar Power (SBSP) systems.
+Plataforma web desenvolvida para a FIAP Global Solution 2026 com foco em monitoramento e gestão de sistemas de Space-Based Solar Power (SBSP).
 
-**Main stack:** HTML5 • CSS3 • JavaScript • IBM Watson Assistant • Git/GitHub
+**Stack principal:** HTML5 • CSS3 • JavaScript • IBM Watson Assistant • Git/GitHub
 
-🔗 [Front-End Repository](https://github.com/Dev-Ulrich/PrepilaDysonFrontEndRepository)
+🔗 [Repositório Front-End](https://github.com/Dev-Ulrich/PrepilaDysonFrontEndRepository)
 
 ###
 
-## 💼 What I work with
+## 💼 Áreas em que atuo
 
-- Full Stack Development
-- Front-end and Back-end Development
+- Desenvolvimento Full Stack
+- Desenvolvimento Front-end e Back-end
 - REST APIs
-- Relational Databases
+- Bancos de dados relacionais
 - Quality Assurance (QA)
-- Software Testing and Automation
-- Git and GitHub workflows
+- Testes de software e automação
+- Fluxos com Git e GitHub
 - Azure DevOps
-- DevSecOps practices
-- Agile / Scrum
+- Práticas de DevSecOps
+- Metodologias Ágeis / Scrum
 
 ###
 
-## 🌎 Connect with me
+## 🌎 Entre em contato
 
 <div align="left">
   <a href="mailto:victorulrich07@gmail.com" target="_blank">
@@ -125,5 +125,5 @@ Web platform developed for FIAP Global Solution 2026 focused on monitoring and m
 ###
 
 <p align="center">
-  <i>Building, testing and continuously improving software solutions.</i>
+  <i>Construindo, testando e evoluindo soluções de software continuamente.</i>
 </p>
