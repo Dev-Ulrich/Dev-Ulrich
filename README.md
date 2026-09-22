@@ -1,129 +1,127 @@
-<h2 align="left">Olá 👋! Meu nome é Victor Ulrich e sou Desenvolvedor Full Stack, atuo com QA e curso ADS em São Paulo, Brasil.</h2>
+<div align="center">
 
-<p align="left">
-  💼 Estagiário em Tecnologia na <strong>Accenture</strong>, atuando com QA e desenvolvimento.<br>
-  🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas na FIAP</strong>.<br>
-  🚀 Foco em <strong>React, TypeScript, Java, Spring Boot, SQL e qualidade de software</strong>.<br>
-  🧪 Experiência com QA, testes de software, Azure DevOps e práticas de DevSecOps.<br>
-  🌐 Interesse em desenvolvimento Full Stack, APIs, aplicações web e projetos de software.
-</p>
+# Victor Ulrich
 
-###
+### Desenvolvedor Full Stack | React, TypeScript, Java e Spring Boot
+
+Crio aplicações web responsivas, APIs e soluções digitais com foco em clareza, qualidade e manutenção.
+
+[![Disponível para projetos freelancer](https://img.shields.io/badge/Disponível_para-projetos_freelancer-22c55e?style=for-the-badge)](mailto:victorulrich07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Ulrich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorulrichcosta/)
+[![E-mail](https://img.shields.io/badge/E--mail-Solicitar_orçamento-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorulrich07@gmail.com)
+
+📍 São Paulo, Brasil · Atendimento remoto
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP** e estagiário de Tecnologia na **Accenture**, com atuação em **desenvolvimento, sustentação e qualidade de software**.
+
+Meu foco é transformar necessidades de negócio em soluções web organizadas, responsivas e fáceis de manter. Tenho experiência prática com desenvolvimento Full Stack, APIs REST, bancos de dados relacionais, testes de software e trabalho colaborativo com Git.
+
+Atualmente, estou disponível para projetos freelancer e colaborações em aplicações web.
+
+## Como posso ajudar
+
+- **Sites institucionais e landing pages** responsivas;
+- **Interfaces e dashboards** com React e TypeScript;
+- **APIs REST e backends** com Java e Spring Boot;
+- **Integração com bancos de dados** relacionais;
+- **Formulários, autenticação e áreas restritas**;
+- **Manutenção, correção de bugs e evolução** de aplicações;
+- **Testes e QA** para aumentar a confiabilidade das entregas.
+
+## O que você pode esperar
+
+- Código legível, organizado e versionado com Git;
+- Interface adaptada para desktop, tablet e celular;
+- Alinhamento de escopo antes do desenvolvimento;
+- Comunicação clara durante o projeto;
+- Validação das funcionalidades antes da entrega;
+- Documentação para facilitar manutenção e evolução.
+
+## Tecnologias
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Ulrich&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="gráfico de estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="gráfico de linguagens" />
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS e Vite" />
+
+### Back-end e banco de dados
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,cs,mysql,postgres" alt="Java, Spring, Python, C Sharp, MySQL e PostgreSQL" />
+
+### Qualidade, DevOps e ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,azure,vscode,figma" alt="Git, GitHub, Docker, Azure, VS Code e Figma" />
+
 </div>
 
-###
+**Também utilizo:** SQL Server, Oracle Database, Spring Security, JWT, React Router, React Hook Form, Playwright, Robot Framework, Azure DevOps, Scrum e práticas de DevSecOps.
 
-<img align="right" height="170" src="https://i.imgflip.com/65efzo.gif" alt="gif de programação" />
-
-### 🧠 Principais tecnologias
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-</div>
-
-### 🗄️ Backend, banco de dados e ferramentas
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="sql server logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-</div>
-
-<br clear="both">
-
-### 🔧 Outras competências
-
-<p align="left">
-  REST APIs • Spring Security • JWT • React Router • React Hook Form • Tailwind CSS • Vite • SQL Server • Oracle Database • Azure DevOps • GitHub • Playwright • Robot Framework • QA • Software Testing • DevSecOps • Scrum
-</p>
-
-###
-
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### 🌱 EcoVolt
-Plataforma gamificada de sustentabilidade desenvolvida em contexto acadêmico na FIAP. O projeto contempla dashboards, ações sustentáveis, validação de evidências, missões, ranking, recompensas e interfaces responsivas.
 
-**Stack principal:** React • TypeScript • Vite • Tailwind CSS • React Router • Git/GitHub
+Plataforma web gamificada que incentiva ações sustentáveis por meio de missões, validação de evidências, ranking e recompensas. Desenvolvida como SPA responsiva, com componentes reutilizáveis, tema claro/escuro e testes das regras locais.
 
-🔗 [Repositório Front-End em React](https://github.com/Dev-Ulrich/EcoVoltRepositoryFE)
+**Tecnologias:** React · TypeScript · Tailwind CSS · Vite · React Router · React Hook Form
+
+[Ver repositório](https://github.com/Dev-Ulrich/EcoVoltRepositoryFE)
 
 ### 🏃 Jornada Ativa
-Projeto Full Stack desenvolvido como TCC do curso técnico, voltado à saúde, atividade física e acompanhamento de treinos. O ecossistema integra módulos Web, Backend, banco de dados e aplicação mobile.
 
-**Stack principal:** Java 21 • Spring Boot • Spring Security • JWT • SQL Server • React • Git/GitHub
+Ecossistema Full Stack criado como TCC do curso técnico para acompanhamento de saúde, atividades físicas e treinos. Participei como **Scrum Master e Desenvolvedor Full Stack**, trabalhando na integração entre frontend, backend e banco de dados.
 
-🔗 [Repositório principal](https://github.com/Dev-Ulrich/Jornada-Ativa)  
-🔗 [Backend API](https://github.com/Dev-Ulrich/Jornada-Ativa-Backend)
+**Tecnologias:** Java 21 · Spring Boot · Spring Security · JWT · SQL Server · React
+
+[Ver projeto](https://github.com/Dev-Ulrich/Jornada-Ativa) · [Ver backend](https://github.com/Dev-Ulrich/Jornada-Ativa-Backend)
 
 ### ☀️ Prepila Dyson
-Plataforma web desenvolvida para a FIAP Global Solution 2026 com foco em monitoramento e gestão de sistemas de Space-Based Solar Power (SBSP).
 
-**Stack principal:** HTML5 • CSS3 • JavaScript • IBM Watson Assistant • Git/GitHub
+Plataforma web para monitoramento e gestão de sistemas de energia solar espacial, com dashboards, alertas, relatórios, controle de contratos e suporte por chatbot.
 
-🔗 [Repositório Front-End](https://github.com/Dev-Ulrich/PrepilaDysonFrontEndRepository)
+**Tecnologias:** HTML5 · CSS3 · JavaScript · IBM Watson Assistant · Git/GitHub
 
-###
+[Ver repositório](https://github.com/Dev-Ulrich/PrepilaDysonFrontEndRepository)
 
-## 💼 Áreas em que atuo
+> Os projetos acima foram desenvolvidos em contextos acadêmicos e demonstram minha experiência prática com análise, implementação, organização de código e trabalho em equipe.
 
-- Desenvolvimento Full Stack
-- Desenvolvimento Front-end e Back-end
-- REST APIs
-- Bancos de dados relacionais
-- Quality Assurance (QA)
-- Testes de software e automação
-- Fluxos com Git e GitHub
-- Azure DevOps
-- Práticas de DevSecOps
-- Metodologias Ágeis / Scrum
+## Meu processo de trabalho
 
-###
+1. **Entendimento:** conversamos sobre o problema, público e resultado esperado.
+2. **Escopo:** organizo funcionalidades, prioridades, prazo e critérios de entrega.
+3. **Desenvolvimento:** implemento a solução em etapas e compartilho a evolução.
+4. **Validação:** reviso responsividade, fluxos, regras e possíveis erros.
+5. **Entrega:** disponibilizo o código e as orientações necessárias para uso e manutenção.
 
-## 🌎 Entre em contato
+## Formação e experiência
 
-<div align="left">
-  <a href="mailto:victorulrich07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/victorulrichcosta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/Dev-Ulrich" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
+- 🎓 **Análise e Desenvolvimento de Sistemas** — FIAP;
+- 💼 **Estagiário de Tecnologia** — Accenture;
+- 🧩 Atuação com desenvolvimento, sustentação, QA e práticas ágeis;
+- 📚 Aprendizado contínuo por meio de projetos e cursos técnicos.
+
+## GitHub em números
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Ulrich&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true" height="160" alt="Estatísticas do GitHub de Victor Ulrich" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&locale=pt-br&layout=compact&card_width=360&langs_count=8&theme=dracula&hide_border=true" height="160" alt="Linguagens mais utilizadas por Victor Ulrich" />
 </div>
 
-###
+## Vamos conversar?
 
-<p align="center">
-  <i>Construindo, testando e evoluindo soluções de software continuamente.</i>
-</p>
+Precisa de um site, uma interface web, uma API ou ajuda para evoluir um sistema existente? Entre em contato para conversarmos sobre o projeto e definirmos a melhor solução.
+
+<div align="center">
+
+[![Solicitar orçamento por e-mail](https://img.shields.io/badge/Solicitar_orçamento-victorulrich07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorulrich07@gmail.com)
+[![Falar pelo LinkedIn](https://img.shields.io/badge/Falar_pelo-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorulrichcosta/)
+
+<sub>Aberto a projetos freelancer, oportunidades e colaborações.</sub>
+
+</div>
