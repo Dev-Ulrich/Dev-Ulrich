@@ -53,7 +53,7 @@ Atualmente, estou disponível para projetos freelancer e colaborações em aplic
 
 ### Back-end e banco de dados
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,cs,mysql,postgres" alt="Java, Spring, Python, C Sharp, MySQL e PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,cs" alt="Java, Spring, Python e C Sharp" />
 
 ### Qualidade, DevOps e ferramentas
 
