@@ -109,9 +109,18 @@ Plataforma web para monitoramento e gestão de sistemas de energia solar espacia
 ## GitHub em números
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Ulrich&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true" height="160" alt="Estatísticas do GitHub de Victor Ulrich" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&locale=pt-br&layout=compact&card_width=360&langs_count=8&theme=dracula&hide_border=true" height="160" alt="Linguagens mais utilizadas por Victor Ulrich" />
+  <a href="https://github.com/Dev-Ulrich?tab=followers">
+    <img src="https://img.shields.io/github/followers/Dev-Ulrich?style=for-the-badge&logo=github&label=Seguidores&color=8b5cf6" alt="Seguidores de Victor Ulrich no GitHub" />
+  </a>
+  <a href="https://github.com/Dev-Ulrich?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfólio-Ver_repositórios-8b5cf6?style=for-the-badge&logo=github" alt="Ver repositórios de Victor Ulrich" />
+  </a>
+  <img src="https://img.shields.io/badge/Projetos_em_destaque-3-8b5cf6?style=for-the-badge" alt="Três projetos em destaque" />
 </div>
+
+<p align="center">
+  React • TypeScript • Java • Spring Boot • SQL • QA
+</p>
 
 ## Vamos conversar?
 
