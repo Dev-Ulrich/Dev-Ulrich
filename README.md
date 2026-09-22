@@ -309,17 +309,25 @@ O código e as orientações necessárias são disponibilizados de forma organiz
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dev-Ulrich&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img
+    height="170em"
+    src="./profile/stats.svg"
+    alt="Estatísticas do GitHub de Victor Ulrich"
+  />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ulrich&layout=compact&langs_count=8&theme=github_dark"/>
+  <img
+    height="170em"
+    src="./profile/languages.svg"
+    alt="Linguagens mais utilizadas por Victor Ulrich"
+  />
 
-</div>
+  <br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Ulrich&theme=github-dark-blue" alt="GitHub Streak"/>
+  <img
+    height="170em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Ulrich&theme=dracula"
+    alt="Sequência de contribuições no GitHub"
+  />
 
 </div>
 
